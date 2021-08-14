@@ -1,249 +1,249 @@
 title,category,state,legend,exceptions,source
-State Actions and Projects,env_review,CA,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-State Actions and Projects,env_review,CT,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-State Actions and Projects,env_review,GA,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-State Actions and Projects,env_review,HI,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-State Actions and Projects,env_review,IN,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-State Actions and Projects,env_review,MD,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-State Actions and Projects,env_review,MA,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-State Actions and Projects,env_review,MN,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-State Actions and Projects,env_review,MO,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-State Actions and Projects,env_review,NJ,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-State Actions and Projects,env_review,NY,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-State Actions and Projects,env_review,NC,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-State Actions and Projects,env_review,SD,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-State Actions and Projects,env_review,VA,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-State Actions and Projects,env_review,WA,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-State Actions and Projects,env_review,WI,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-Local Actions and Projects,env_review,CA,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-Local Actions and Projects,env_review,GA,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-Local Actions and Projects,env_review,MN,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-Local Actions and Projects,env_review,NY,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-Local Actions and Projects,env_review,WA,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-Private Actions and Projects,env_review,CA,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-Private Actions and Projects,env_review,MN,Exception,Minnesota requires an environmental review of private activities that involve specific agricultural projects,https://ballotpedia.org/State_environmental_policy_acts
-Private Actions and Projects,env_review,NY,Exception,Applies only to private actions in New York that require a state permit or state funding,https://ballotpedia.org/State_environmental_policy_acts
-Climate Change Check,env_review,CA,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-Climate Change Check,env_review,MA,In Place,,https://ballotpedia.org/State_environmental_policy_acts
-Climate Action Plan,env_review,WA,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,OR,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,CA,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,AZ,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,MO,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,NM,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,CO,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,PA,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,MI,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,IA,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,IL,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,AR,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,FL,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,KY,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,NH,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,VT,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,MA,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,CT,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,RI,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,VA,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,NC,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,SC,Released,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,NV,Developing,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,MN,Updating,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,WI,Updating,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,NY,Updating,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,ME,Updating,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,NJ,Updating,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,MD,Updating,,https://www.c2es.org/content/state-climate-policy/
-Climate Action Plan,env_review,DE,Updating,,https://www.c2es.org/content/state-climate-policy/
-Beverage Container Deposit,recycling,CA,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
-Beverage Container Deposit,recycling,CO,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
-Beverage Container Deposit,recycling,HI,In Place,Hawaii has a defacto statewide ban,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
-Beverage Container Deposit,recycling,IA,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
-Beverage Container Deposit,recycling,ME,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
-Beverage Container Deposit,recycling,MA,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
-Beverage Container Deposit,recycling,MI,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
-Beverage Container Deposit,recycling,NY,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
-Beverage Container Deposit,recycling,OR,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
-Beverage Container Deposit,recycling,VT,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
-Single-use Plastic Bags,recycling,CA,Banned,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,CO,Banned,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,DE,Banned,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,HI,Banned,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,ME,Banned,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,NY,Banned,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,OR,Banned,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,VT,Banned,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,VA,Fee,VA law allows localities to tax,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,ID,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,ND,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,SD,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,MN,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,WI,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,IA,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,MI,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,IN,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,OH,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,CO,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,NE,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,MO,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,AZ,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,OK,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,TX,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,TN,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,MS,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Single-use Plastic Bags,recycling,FL,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
-Littering Penalty,recycling,AL,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,AK,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,AZ,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,AR,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,CA,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,CO,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,CT,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,DE,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,FL,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,GA,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,HI,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,ID,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,IL,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,IN,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,IA,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,KS,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,KY,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,LA,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,ME,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,MD,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,MA,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,MI,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,MN,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,MS,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,MO,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,MT,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,NE,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,NV,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,NH,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,NJ,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,NM,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,NY,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,NC,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,ND,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,OH,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,OK,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,OR,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,PA,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,RI,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,SC,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,SD,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,TN,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,TX,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,UT,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,VT,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,VA,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,WA,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,WV,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,WI,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Littering Penalty,recycling,WY,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
-Battery Recycling Requirement,recycling,CA,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,UT,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,WY,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,ND,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,SD,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,WI,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,NM,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,TX,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,AR,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,LA,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,MS,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,IN,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,KY,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,WV,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,VA,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,NC,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,SC,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,PA,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,NH,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,CT,In effect,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,MN,Offered,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,IA,Offered,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,NY,Offered,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,ME,Offered,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,VT,Offered,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,NJ,Offered,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,MD,Offered,,https://www.call2recycle.org/recycling-laws-by-state
-Battery Recycling Requirement,recycling,FL,Offered,,https://www.call2recycle.org/recycling-laws-by-state
-Clean Vehicle Policies,transportation,CA,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Policies,transportation,VT,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Policies,transportation,ME,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Policies,transportation,NJ,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Policies,transportation,MD,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Policies,transportation,RI,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Policies,transportation,CT,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Policies,transportation,NY,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Policies,transportation,MA,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Policies,transportation,OR,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,ID,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,MT,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,NV,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,UT,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,AZ,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,OK,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,TX,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,NE,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,KS,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,WI,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,IL,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,OH,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,IN,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,TN,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,GA,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,SC,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,FL,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,VA,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,LA,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,WA,Electric vehicle financial incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,PA,Electric vehicle financial incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Clean Vehicle Incentives,transportation,DE,Electric vehicle financial incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
-Low Carbon Fuel Standard,transportation,CA,In effect,,https://www.c2es.org/content/state-climate-policy/
-Low Carbon Fuel Standard,transportation,OR,In effect,,https://www.c2es.org/content/state-climate-policy/
-Alternative Fuel Standard,transportation,OR,In effect,,https://www.c2es.org/content/state-climate-policy/
-Alternative Fuel Standard,transportation,WA,In effect,,https://www.c2es.org/content/state-climate-policy/
-Alternative Fuel Standard,transportation,LA,In effect,,https://www.c2es.org/content/state-climate-policy/
-Alternative Fuel Standard,transportation,PA,In effect,,https://www.c2es.org/content/state-climate-policy/
-Alternative Fuel Standard,transportation,MN,In effect,,https://www.c2es.org/content/state-climate-policy/
-Alternative Fuel Standard,transportation,MO,In effect,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Standards,energy,WA,Performance standards,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
-Greenhouse Gas Emissions Standards,energy,OR,Performance standards,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
-Greenhouse Gas Emissions Standards,energy,CA,Both,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
-Greenhouse Gas Emissions Standards,energy,MT,Performance standards,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
-Greenhouse Gas Emissions Standards,energy,IL,Performance standards,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
-Greenhouse Gas Emissions Standards,energy,NY,Both,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
-Greenhouse Gas Emissions Standards,energy,ME,Cap and trade,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
-Greenhouse Gas Emissions Standards,energy,VT,Cap and trade,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
-Greenhouse Gas Emissions Standards,energy,NH,Cap and trade,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
-Greenhouse Gas Emissions Standards,energy,MA,Cap and trade,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
-Greenhouse Gas Emissions Standards,energy,CT,Cap and trade,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
-Greenhouse Gas Emissions Standards,energy,RI,Cap and trade,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
-Greenhouse Gas Emissions Standards,energy,MD,Cap and trade,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
-Greenhouse Gas Emissions Standards,energy,DE,Cap and trade,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
-Greenhouse Gas Emissions Targets,energy,MT,Executive target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,MI,Executive target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,NM,Executive target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,LA,Executive target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,NC,Executive target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,PA,Executive target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,NJ,Executive target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,NH,Executive target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,DE,Executive target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,WA,Statutory target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,NV,Statutory target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,CO,Statutory target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,MN,Statutory target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,NY,Statutory target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,VA,Statutory target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,MA,Statutory target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,RI,Statutory target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,CT,Statutory target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,MD,Statutory target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,VA,Statutory target,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,CA,Both,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,OR,Both,,https://www.c2es.org/content/state-climate-policy/
-Greenhouse Gas Emissions Targets,energy,ME,Both,,https://www.c2es.org/content/state-climate-policy/
+State Actions and Projects,env_review,California,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+State Actions and Projects,env_review,Connecticut,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+State Actions and Projects,env_review,Georgia,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+State Actions and Projects,env_review,Hawaii,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+State Actions and Projects,env_review,Indiana,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+State Actions and Projects,env_review,Maryland,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+State Actions and Projects,env_review,Massachusetts,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+State Actions and Projects,env_review,Minnesota,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+State Actions and Projects,env_review,Missouri,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+State Actions and Projects,env_review,New Jersey,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+State Actions and Projects,env_review,New York,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+State Actions and Projects,env_review,North Carolina,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+State Actions and Projects,env_review,South Dakota,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+State Actions and Projects,env_review,Virginia,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+State Actions and Projects,env_review,Washington,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+State Actions and Projects,env_review,Wisconsin,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+Local Actions and Projects,env_review,California,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+Local Actions and Projects,env_review,Georgia,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+Local Actions and Projects,env_review,Minnesota,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+Local Actions and Projects,env_review,New York,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+Local Actions and Projects,env_review,Washington,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+Private Actions and Projects,env_review,California,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+Private Actions and Projects,env_review,Minnesota,Exception,Minnesota requires an environmental review of private activities that involve specific agricultural projects,https://ballotpedia.org/State_environmental_policy_acts
+Private Actions and Projects,env_review,New York,Exception,Applies only to private actions in New York that require a state permit or state funding,https://ballotpedia.org/State_environmental_policy_acts
+Climate Change Check,env_review,California,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+Climate Change Check,env_review,Massachusetts,In Place,,https://ballotpedia.org/State_environmental_policy_acts
+Climate Action Plan,env_review,Washington,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Oregon,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,California,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Arizona,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Missouri,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,New Mexico,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Colorado,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Pennsylvania,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Michigan,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Iowa,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Illinois,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Arkansas,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Florida,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Kentucky,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,New Hampshire,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Vermont,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Massachusetts,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Connecticut,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Rhode Island,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Virginia,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,North Carolina,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,South Carolina,Released,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Nevada,Developing,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Minnesota,Updating,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Wisconsin,Updating,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,New York,Updating,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Maine,Updating,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,New Jersey,Updating,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Maryland,Updating,,https://www.c2es.org/content/state-climate-policy/
+Climate Action Plan,env_review,Delaware,Updating,,https://www.c2es.org/content/state-climate-policy/
+Beverage Container Deposit,recycling,California,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
+Beverage Container Deposit,recycling,Colorado,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
+Beverage Container Deposit,recycling,Hawaii,In Place,Hawaii has a defacto statewide ban,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
+Beverage Container Deposit,recycling,Iowa,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
+Beverage Container Deposit,recycling,Maine,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
+Beverage Container Deposit,recycling,Massachusetts,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
+Beverage Container Deposit,recycling,Michigan,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
+Beverage Container Deposit,recycling,New York,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
+Beverage Container Deposit,recycling,Oregon,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
+Beverage Container Deposit,recycling,Vermont,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/state-beverage-container-laws.aspx
+Single-use Plastic Bags,recycling,California,Banned,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Colorado,Banned,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Delaware,Banned,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Hawaii,Banned,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Maine,Banned,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,New York,Banned,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Oregon,Banned,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Vermont,Banned,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Virginia,Fee,VA law allows localities to tax,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Idaho,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,North Dakota,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,South Dakota,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Minnesota,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Wisconsin,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Iowa,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Michigan,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Indiana,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Ohio,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Colorado,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Nebraska,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Missouri,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Arizona,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Oklahoma,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Texas,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Tennessee,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Mississippi,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Single-use Plastic Bags,recycling,Florida,Preemption,,https://www.ncsl.org/research/environment-and-natural-resources/plastic-bag-legislation.aspx
+Littering Penalty,recycling,Alabama,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Alaska,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Arizona,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Arkansas,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,California,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Colorado,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Connecticut,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Delaware,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Florida,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Georgia,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Hawaii,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Idaho,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Illinois,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Indiana,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Iowa,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Kansas,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Kentucky,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Louisiana,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Maine,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Maryland,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Massachusetts,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Michigan,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Minnesota,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Mississippi,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Missouri,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Montana,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Nebraska,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Nevada,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,New Hampshire,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,New Jersey,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,New Mexico,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,New York,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,North Carolina,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,North Dakota,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Ohio,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Oklahoma,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Oregon,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Pennsylvania,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Rhode Island,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,South Carolina,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,South Dakota,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Tennessee,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Texas,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Utah,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Vermont,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Virginia,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Washington,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,West Virginia,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Wisconsin,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Littering Penalty,recycling,Wyoming,In Place,,https://www.ncsl.org/research/environment-and-natural-resources/states-with-littering-penalties.aspx
+Battery Recycling Requirement,recycling,California,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Utah,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Wyoming,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,North Dakota,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,South Dakota,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Wisconsin,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,New Mexico,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Texas,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Arkansas,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Louisiana,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Mississippi,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Indiana,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Kentucky,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,West Virginia,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Virginia,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,North Carolina,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,South Carolina,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Pennsylvania,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,New Hampshire,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Connecticut,In effect,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Minnesota,Offered,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Iowa,Offered,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,New York,Offered,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Maine,Offered,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Vermont,Offered,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,New Jersey,Offered,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Maryland,Offered,,https://www.call2recycle.org/recycling-laws-by-state
+Battery Recycling Requirement,recycling,Florida,Offered,,https://www.call2recycle.org/recycling-laws-by-state
+Clean Vehicle Policies,transportation,California,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Policies,transportation,Vermont,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Policies,transportation,Maine,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Policies,transportation,New Jersey,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Policies,transportation,Maryland,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Policies,transportation,Rhode Island,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Policies,transportation,Connecticut,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Policies,transportation,New York,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Policies,transportation,Massachusetts,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Policies,transportation,Oregon,Zero-emission vehicle program,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Idaho,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Montana,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Nevada,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Utah,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Arizona,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Oklahoma,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Texas,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Nebraska,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Kansas,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Wisconsin,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Illinois,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Ohio,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Indiana,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Tennessee,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Georgia,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,South Carolina,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Florida,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Virginia,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Louisiana,Clean energy vehicle incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Washington,Electric vehicle financial incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Pennsylvania,Electric vehicle financial incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Clean Vehicle Incentives,transportation,Delaware,Electric vehicle financial incentives,,https://www.c2es.org/document/us-state-clean-vehicle-policies-and-incentives/
+Low Carbon Fuel Standard,transportation,California,In effect,,https://www.c2es.org/content/state-climate-policy/
+Low Carbon Fuel Standard,transportation,Oregon,In effect,,https://www.c2es.org/content/state-climate-policy/
+Alternative Fuel Standard,transportation,Oregon,In effect,,https://www.c2es.org/content/state-climate-policy/
+Alternative Fuel Standard,transportation,Washington,In effect,,https://www.c2es.org/content/state-climate-policy/
+Alternative Fuel Standard,transportation,Louisiana,In effect,,https://www.c2es.org/content/state-climate-policy/
+Alternative Fuel Standard,transportation,Pennsylvania,In effect,,https://www.c2es.org/content/state-climate-policy/
+Alternative Fuel Standard,transportation,Minnesota,In effect,,https://www.c2es.org/content/state-climate-policy/
+Alternative Fuel Standard,transportation,Missouri,In effect,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Standards,energy,Washington,Performance standards,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
+Greenhouse Gas Emissions Standards,energy,Oregon,Performance standards,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
+Greenhouse Gas Emissions Standards,energy,California,Both,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
+Greenhouse Gas Emissions Standards,energy,Montana,Performance standards,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
+Greenhouse Gas Emissions Standards,energy,Illinois,Performance standards,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
+Greenhouse Gas Emissions Standards,energy,New York,Both,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
+Greenhouse Gas Emissions Standards,energy,Maine,Cap and trade,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
+Greenhouse Gas Emissions Standards,energy,Vermont,Cap and trade,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
+Greenhouse Gas Emissions Standards,energy,New Hampshire,Cap and trade,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
+Greenhouse Gas Emissions Standards,energy,Massachusetts,Cap and trade,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
+Greenhouse Gas Emissions Standards,energy,Connecticut,Cap and trade,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
+Greenhouse Gas Emissions Standards,energy,Rhode Island,Cap and trade,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
+Greenhouse Gas Emissions Standards,energy,Maryland,Cap and trade,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
+Greenhouse Gas Emissions Standards,energy,Delaware,Cap and trade,,https://www.c2es.org/document/standards-for-electricity-ghg-emissions/
+Greenhouse Gas Emissions Targets,energy,Montana,Executive target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,Michigan,Executive target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,New Mexico,Executive target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,Louisiana,Executive target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,North Carolina,Executive target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,Pennsylvania,Executive target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,New Jersey,Executive target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,New Hampshire,Executive target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,Delaware,Executive target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,Washington,Statutory target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,Nevada,Statutory target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,Colorado,Statutory target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,Minnesota,Statutory target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,New York,Statutory target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,Virginia,Statutory target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,Massachusetts,Statutory target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,Rhode Island,Statutory target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,Connecticut,Statutory target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,Maryland,Statutory target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,Virginia,Statutory target,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,California,Both,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,Oregon,Both,,https://www.c2es.org/content/state-climate-policy/
+Greenhouse Gas Emissions Targets,energy,Maine,Both,,https://www.c2es.org/content/state-climate-policy/

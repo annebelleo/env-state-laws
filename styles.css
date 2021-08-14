@@ -1,6 +1,10 @@
 body {
 }
 
+h1 {
+	text-align: center;
+}
+
 .states {
 	fill: #808080;
 }

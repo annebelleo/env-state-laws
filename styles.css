@@ -21,3 +21,16 @@ h1 {
   stroke-linecap: round;
   pointer-events: none;
 }
+
+.selection {
+	float: right;
+}
+
+.col {
+	margin-top: 5%;
+}
+
+.aboutuspg {
+	padding: 0 10%;
+	align-content: center;
+}

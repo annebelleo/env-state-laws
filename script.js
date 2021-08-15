@@ -40,17 +40,15 @@ function ready([us]) {
     	d3.selectAll("p").remove()
     	d3.selectAll("h3").remove()
     	var currentState = state_id[d.id]
-    	currentState=currentState.replace(/\s/g, "")
-    	console.log(currentState)
-    	d3.selectAll('.' + currentState).append('h3').text("Environmental Laws in " + currentState + ":")
+    	var currentStateTogether=currentState.replace(/\s/g, "")
+    	d3.selectAll('.' + currentStateTogether).append('h3').text("Environmental Laws in " + currentState + ":")
     	currentState = state_id[d.id]
-    	console.log(currentState)
     	for (var i=0; i<laws.length; i++) {
     		if (laws[i].state == currentState) {
-    			currentState=currentState.replace(/\s/g, "")
-    			var appendLink = d3.selectAll('.' + currentState).append('a')
-    			.attr("xlink:href", laws[i].sources)
-    			.append('p').text(laws[i].title)
+    			var appendLink = d3.selectAll('.' + currentStateTogether).append('p')
+    			appendLink.append('a')
+    			.text(laws[i].title)
+    			.attr("href", laws[i].sources)
     		}
     	}
 		})
